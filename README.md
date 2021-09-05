@@ -1,8 +1,8 @@
-# :information_source: About Me
-* :computer: I'm a DevOps Engineer and open source developer
-* :heart: I really love working on open source projects - there's nothing more satisfying to me than building something well from the ground up and putting it in the hands of real users even if it's only small.
-* :floppy_disk: I love figuring out old computers and legacy applications as much as building new ones!
-* :rooster: Fun Fact - I have exactly one duck and one chicken, fondly named Duck and Chicken respectively
+## :information_source: About Me
+* :computer: I'm a DevOps Engineer and open source developer.
+* :heart: I really love working on open source projects - there's nothing more satisfying to me than building something well from the ground up and putting it in the hands of real users even if it's only a small project.
+* :floppy_disk: I love figuring out old computers and legacy applications as much as building new ones! 
+* :rooster: Fun fact - I have exactly one duck and one chicken, fondly named Duck and Chicken respectively
 
 ## :hammer: Tools I Work With
 * 📦 Docker and Kubernetes
