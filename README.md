@@ -1,6 +1,6 @@
 ## :information_source: About Me
-* :computer: I'm a DevOps Engineer and dabbler in open source.
-* :heart: I really love working on open source projects - there's nothing more satisfying to me than building something well from the ground up and putting it in the hands of real users even if it's only a small project.
+* :computer: I'm a DevOps Engineer, volunteer with CodeYourFuture, and dabbler in open source.
+* :heart: I love giving back whether through opensource, volunteering and/or mentoring. Mainly focused on volunteering these days.
 * :floppy_disk: I love figuring out old computers and legacy applications as much as building new ones! 
 * :rooster: Fun fact - I have exactly one duck and one chicken, fondly named Duck and Chicken respectively
 
