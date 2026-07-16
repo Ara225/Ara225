@@ -12,6 +12,7 @@
 * ☕ Java
 * 🐪 Perl 
 * 🐘 PHP
+* ☎️ Telephony
 * and more I couldn't find emojis for
 
 ## :open_file_folder: Favorite Projects
